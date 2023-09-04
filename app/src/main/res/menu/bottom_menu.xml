@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pipu"
+        android:icon="@drawable/pipupapu_vector"
+        android:title="@string/pipupapu" />
+
+    <item
+        android:id="@+id/facts"
+        android:icon="@drawable/facts_vector"
+        android:title="@string/facts" />
+
+    <item
+        android:id="@+id/list"
+        android:icon="@drawable/memberlist_vector"
+        android:title="@string/member_list" />
+
+</menu>
